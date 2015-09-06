@@ -1,4 +1,3 @@
 k-o-l-e-k-t-i-v.github.io
 =========================
-
-kolektiv web
+Backdoor to Kolektiv website
